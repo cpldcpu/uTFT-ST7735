@@ -6,6 +6,8 @@ on the Adafruit ST7735 Arduino Library. Compared to the original, the memory req
 Allowing it to be used on smaller devices such as the ATtiny85. It includes a speed-optimzed software-SPI implementation that
 is more than twice as fast as the original implementation.
 
+The library compiles to around 2400 bytes with -O1 and 2240 bytes with -Os. 
+
 [Article by Tobias Weis] (http://enerds.eu/blog/18-spi-lcd-display-10-eur-with-atmega.html)
  
 [Github repository of the Adafruit lib] (https://github.com/adafruit/Adafruit-ST7735-Library)
