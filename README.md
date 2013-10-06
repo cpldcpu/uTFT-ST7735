@@ -31,5 +31,5 @@ The example compiles to only 2842 bytes, leaving ample space for additional func
 # History
 
  
- * v0.1 2013/10/06 - Initial release cpldcpu@gmail.com
+ * v0.1 2013/10/06 - Initial release 
  
