@@ -2,8 +2,8 @@ uTFT-ST7735
 ===========
 
 This is a size and speed optimized ANSI-C library to control 1.8" ST7735 TFTs. This library is based on the "china_lcd" library by Tobias Weis, which is in turn based
-on the Adafruit ST7735 Arduino Library. Compared to the original, the memory requirement has been drastically reduced and the speed has been improved. 
-Allowing it to be used on smaller devices such as the ATtiny85. It includes a speed-optimzed software-SPI implementation that
+on the Adafruit ST7735 Arduino Library. Compared to the original, the memory requirement has been drastically reduced and the speed has been improved, 
+allowing it to be used on smaller devices such as the ATtiny85. It includes a speed-optimzed software-SPI implementation that
 is more than twice as fast as the original implementation.
 
 The library compiles to around 2400 bytes with -O1 and 2240 bytes with -Os. 
