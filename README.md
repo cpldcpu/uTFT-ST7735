@@ -8,9 +8,9 @@ is more than twice as fast as the original implementation.
 
 The library compiles to around 2400 bytes with -O1 and 2240 bytes with -Os. 
 
-[Article by Tobias Weis] (http://enerds.eu/blog/18-spi-lcd-display-10-eur-with-atmega.html)
+[Article by Tobias Weis](http://enerds.eu/blog/18-spi-lcd-display-10-eur-with-atmega.html)
  
-[Github repository of the Adafruit lib] (https://github.com/adafruit/Adafruit-ST7735-Library)
+[Github repository of the Adafruit lib](https://github.com/adafruit/Adafruit-ST7735-Library)
  
 The library works with my display, which may be a "red" flag one. Modifications are possibly required for other versions.
 
@@ -28,7 +28,7 @@ The library works with my display, which may be a "red" flag one. Modifications 
 The example compiles to only 2842 bytes, leaving ample space for additional functionality on the ATTiny85.
 
 ### Test setup 
- ![Test Setup](Test Setup.jpg)
+ ![Test Setup](https://github.com/cpldcpu/uTFT-ST7735/blob/master/Test%20Setup.jpg)
  
 # History
 
